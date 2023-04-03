@@ -7,7 +7,6 @@ export default function MainContent(){
     return (
         <main className='maincontent'>
             <h1>Fun gacts about React</h1>
-            <img src="./perfil.png" alt="perfil" />
             <div class="list_elipse" alt="logo">
                 <ul id="ul_elipse">
                     <li>{elipse}</li>
